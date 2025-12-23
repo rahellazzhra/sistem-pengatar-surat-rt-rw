@@ -268,3 +268,49 @@ Untuk pertanyaan atau bantuan teknis, silakan hubungi pengembang.
 ---
 
 **Dibuat dengan  ❤️ untuk mempermudah pelayanan RT/RW**
+
+## Detai Tampilan Aplikasi
+
+Berikut adalah tampilan antarmuka dari aplikasi Sistem Surat RT/RW:
+
+### Halaman Login & Registrasi
+
+| Login Warga | Login Admin |
+|:---:|:---:|
+| ![Login Warga](assets/form%20UI/login_warga.jpeg) | ![Login Admin](assets/form%20UI/Login_admin.jpeg) |
+| **Halaman Login Warga** | **Halaman Login Admin** |
+
+#### Registrasi Warga
+![Registrasi Warga](assets/form%20UI/pendaftaran_warga.jpeg)
+*Form untuk warga baru mendaftarkan diri*
+
+### Dashboard
+
+| Dashboard Warga | Dashboard Admin |
+|:---:|:---:|
+| ![Dashboard Warga](assets/form%20UI/dashboard_warga.jpeg) | ![Dashboard Admin](assets/form%20UI/dashboard_admin.jpeg) |
+| **Tampilan Dashboard Warga** | **Tampilan Dashboard Admin** |
+
+### Fitur Warga
+
+#### Pengajuan Surat
+![Pengajuan Surat](assets/form%20UI/pengajuan_surat.jpeg)
+*Form untuk mengajukan surat baru*
+
+#### Riwayat Surat
+![Riwayat Surat](assets/form%20UI/surat%20warga%20yang%20sudah%20di%20ajukan%20oleh_warga%20.jpeg)
+*Daftar surat yang pernah diajukan beserta statusnya*
+
+#### Riwayat Login
+![Riwayat Login](assets/form%20UI/riwayat_login%20warga.jpeg)
+*Log aktivitas login pengguna untuk keamanan*
+
+### Fitur Admin
+
+#### Manajemen Data Warga
+![Manajemen Warga](assets/form%20UI/data_warga%20yang%20sudah%20daftar.jpeg)
+*Halaman untuk mengelola data warga yang terdaftar*
+
+#### Pengelolaan Surat
+![Kelola Surat](assets/form%20UI/kelola%20surat_warga.jpeg)
+*Halaman admin untuk memproses surat masuk*
